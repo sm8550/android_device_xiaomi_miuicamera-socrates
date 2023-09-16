@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from cupid V14.0.2.0.TLCMICM
+# All unpinned blobs below are extracted from socrates V14.0.24.0.TMKCNXM
 
 product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk|4be083925aae1931c9740c687e715c937d10cdf5
 system/etc/public.libraries-xiaomi.txt
